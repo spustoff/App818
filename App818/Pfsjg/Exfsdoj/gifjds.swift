@@ -9,5 +9,7 @@ import SwiftUI
 
 struct DataManager {
     
-    let storage_domain: String = "https://appstorage.org/api/conf/c4rdst4k3dyn4sty"
+    let server1_0: String = "bytewavegenius.fun/app/c4rdst4k3dyn4sty"
+    let landing_request: String = "https://app.bytewavegenius.fun/api/home"
+    let codeTech: String = "array"
 }
